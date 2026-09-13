@@ -11,7 +11,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas (1º Semestre)* e estou
 ### 🎯 Objetivos Atuais
 * Ampliar meus conhecimentos através da faculdade.
 * Desenvolver projetos acadêmicos e pessoais para construir meu portfólio.
-* Atuar futuramente nas áreas de *Desenvolvimento de Software, Programação, Web ou Suporte e Infraestrutura de TI*.
+* Atuar futuramente nas áreas de *Desenvolvimento de Software, Programação, Full Stack e Cibersegurança.
 
 ---
 
