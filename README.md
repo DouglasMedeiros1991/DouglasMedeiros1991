@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Douglas Medeiros 👋
 
-<!--
-**DouglasMedeiros1991/DouglasMedeiros1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de *Análise e Desenvolvimento de Sistemas (1º Semestre)* e estou iniciando minha jornada na área de Tecnologia da Informação. Estou focado em construir uma base sólida em programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Conhecimentos & Experiência Prática
+* *Hardware & Suporte:* Montagem e desmontagem de PCs, manutenção básica de hardware, diagnóstico de problemas e formatação/configuração de sistemas operacionais.
+* *Em Aprendizado:* Lógica de Programação, Programação, Desenvolvimento de Sistemas, Banco de Dados, Git e GitHub.
+
+### 🎯 Objetivos Atuais
+* Ampliar meus conhecimentos através da faculdade.
+* Desenvolver projetos acadêmicos e pessoais para construir meu portfólio.
+* Atuar futuramente nas áreas de *Desenvolvimento de Software, Programação, Web ou Suporte e Infraestrutura de TI*.
+
+---
+
+Estou em constante aprendizado e meus projetos serão adicionados aqui conforme forem desenvolvidos ao longo da minha formação!
